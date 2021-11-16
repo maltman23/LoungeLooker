@@ -1,5 +1,5 @@
-# ArduTouch
-![photo of LoungeLooker at Roboexotica / Ars Electronica](LoungeLooker_credit_screen_and_in_action_LR.jpg)
+# LoungeLooker
+![photo of LoungeLooker at Roboexotica / Ars Electronica](http://cornfieldelectronics.com/cfe/images/projects/LoungeLooker_credit_screen_and_in_action_LR.jpg)
 Using a Raspberry Pi 4 running OpenCV with a webcam for facial-recognition, the software (in Python) claims to calculate your innermost desirees, and then chooses the perfect lounge music song (played on three of my ArduTouch synthesizers, plus the open source eSpeak text-to-speech engine for lyrics) to fulfill those innermost desires.
   
 I developed this project as Artist-in-Residence with Monochrome/Q21 at MuseumsQuartier in Vienna in August/September-2021, and presented at Roboexotica as part of Ars Electronica in September-2021.
@@ -13,7 +13,7 @@ This project uses:
 * [eSpeak text-to-speech engine](http://espeak.sourceforge.net/)
 * 4-channel stereo audio mixer, stereo audio amp/speakers
 
-![LoungeLooker facial-recognition screen](LoungeLooker_facial_recognition_screen_LR.jpg)
+![LoungeLooker facial-recognition screen](http://cornfieldelectronics.com/cfe/images/projects/LoungeLooker_facial_recognition_screen_LR.jpg)
 
 I am thankful for the super [tutorial for installing OpenCV from Q-engineering](https://qengineering.eu/install-opencv-4.5-on-raspberry-pi-4.html)
 
