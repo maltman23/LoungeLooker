@@ -8,7 +8,7 @@ This project uses:
 * Raspberry Pi 4 Model B 8GB (with cooling fan added)
 * 3 [ArduTouch music synthesizer kits](https://cornfieldelectronics.com/cfe/projects.php#ardutouch)
 * 3 [FTDI-equivalent USB-Serial Cables](http://cornfieldelectronics.com/cfe/products/buy.php?productId=usbcable)
-* 4-port USB port
+* 4-port USB hub
 * [openCV computer vision software](https://opencv.org/)
 * [eSpeak text-to-speech engine](http://espeak.sourceforge.net/)
 * 4-channel stereo audio mixer, stereo audio amp/speakers
@@ -20,6 +20,8 @@ I am thankful for the super [tutorial for installing OpenCV from Q-engineering](
 I am also super grateful for the great set of [tutorials on using OpenCV for facial-recognition on Raspberry Pi from Adrian Rosenrock](https://www.pyimagesearch.com/2018/06/25/raspberry-pi-face-recognition/)
 
 And many thanks to the developers of [eSpeak text-to-speech engine](http://espeak.sourceforge.net)
+
+Also, thanks to the great support from [Monochrom](https://www.monochrom.at/) and [Q21](https://www.mqw.at/institutionen/q21/artists-in-residence/mitch-altman) at the [MuseumsQuartier](https://www.mqw.at/mq-journal/mitch-altman-interview) in Vienna.
 
 ```
 ==================================================
