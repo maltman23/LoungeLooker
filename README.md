@@ -13,8 +13,16 @@ This project uses:
 * [eSpeak text-to-speech engine](http://espeak.sourceforge.net/)
 * 4-channel stereo audio mixer, stereo audio amp/speakers
 
-![LoungeLooker facial-recognition screen](http://cornfieldelectronics.com/cfe/images/projects/LoungeLooker_facial_recognition_screen_LR.jpg)
+<p align="center">
+  <img src="http://cornfieldelectronics.com/cfe/images/projects/LoungeLooker_facial_recognition_screen_LR.jpg" width="400">
+</p>
 
+## Video
+**Here is a 15-minute video describing the project, and giving a demo of it in action:**  
+https://youtu.be/23EKJEPwm7c
+
+
+## Thanks
 I am thankful for the super [tutorial for installing OpenCV from Q-engineering](https://qengineering.eu/install-opencv-4.5-on-raspberry-pi-4.html)
 
 I am also super grateful for the great set of [tutorials on using OpenCV for facial-recognition on Raspberry Pi from Adrian Rosenrock](https://www.pyimagesearch.com/2018/06/25/raspberry-pi-face-recognition/)
@@ -22,6 +30,9 @@ I am also super grateful for the great set of [tutorials on using OpenCV for fac
 And many thanks to the developers of [eSpeak text-to-speech engine](http://espeak.sourceforge.net)
 
 Also, thanks to the great support from [Monochrom](https://www.monochrom.at/) and [Q21](https://www.mqw.at/institutionen/q21/artists-in-residence/mitch-altman) at the [MuseumsQuartier](https://www.mqw.at/mq-journal/mitch-altman-interview) in Vienna.
+
+## Open Hardware
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Open-source-hardware-logo.svg" width="100">
 
 ```
 ==================================================
